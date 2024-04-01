@@ -289,7 +289,7 @@ h1, h2, h3, h4, h5, h6, figure {
           right: 0;
           opacity: .8;
           background: #00b7ea;
-          /* Old browsers */
+   
           background: -moz-linear-gradient(45deg, #000000 0%, #909090 100%);
           /* FF3.6-15 */
           background: -webkit-linear-gradient(45deg, #000000 0%, #909090 100%);
